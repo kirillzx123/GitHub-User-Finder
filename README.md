@@ -26,4 +26,4 @@
 2. Откройте терминал/командную строку
 3. Перейдите в папку с программой:
 ```bash
-git clone <URL_репозитория>
+git clone <[URL_репозитория](https://github.com/kirillzx123/GitHub-User-Finder/blob/main/main.py)>
